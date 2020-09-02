@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Janus.IdentityServer", "Janus.IdentityServer\Janus.IdentityServer.csproj", "{F64725F4-E031-4D3D-B3E0-501681DCAA01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B2E911B9-FCE6-41F0-A191-C4574B18CBED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5A8A23A8-CE33-482D-8950-EB325DAF591D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{815AEF24-21F2-4723-89D9-DC9A4CF68CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64725F4-E031-4D3D-B3E0-501681DCAA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64725F4-E031-4D3D-B3E0-501681DCAA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64725F4-E031-4D3D-B3E0-501681DCAA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64725F4-E031-4D3D-B3E0-501681DCAA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F64725F4-E031-4D3D-B3E0-501681DCAA01} = {B2E911B9-FCE6-41F0-A191-C4574B18CBED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9158FC8E-9B83-4146-9129-DA23A448062E}
+	EndGlobalSection
+EndGlobal
